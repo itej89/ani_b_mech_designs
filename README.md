@@ -32,29 +32,39 @@ Below is a list of components currently available in this repository:
 
 * **Base closure**
 	+ Bottom cover the holds the Power Circuity
-    <br/>
+   
     ![Base closure](assets/screenshots/bottomenclosure.png)
 * **Base Centre Case**
 	+ Base centre case that holds the base servo and battery compartment
+    ![Base Centre Case](assets/screenshots/basecentrecase.png)
 * **Base Top Case**
 	+ Base top case the holds the servo bearing
+    ![Base Top Case](assets/screenshots/basetopcase.png)
 * **Servo bearing cap**
 	+ Bearing cap for Lean and Lift servos
+    ![Servo bearing cap](assets/screenshots/servobearingcap.png)
 * **Servo enclosure**
 	+ Servo and driver enclosure for for Lean and Lift servos
+    ![Servo enclosure](assets/screenshots/servocase.png)
 * **Servo enclosure cap**
 	+ Back cap for Lean and Lift servo enclosures
+    ![Servo enclosure cap](assets/screenshots/servocap.png)
 * **Top case**
 	+ Top case that holds the top servo, single board compute,
     speaker etc.,
+    ![Top case](assets/screenshots/topcase.png)
 * **Face Frame**
 	+ Holds the display and closes the top enclosure
+    ![Face Frame](assets/screenshots/displayframe.png)
 * **Servo PCB Holder**
 	+ Holder for attaching servo drivers for Lean and Lift servos
+    ![Servo PCB Holder](assets/screenshots/pcbholder.png)
 * **Base Servo PCB Holder**
 	+ Holder for attaching servo drivers for base servo
+    ![Base Servo PCB Holder](assets/screenshots/basepcbboard.png)
 * **Battery Compartment**
 	+ Holder for 3S 18650 batteryies with hoolders
+    ![Battery Compartment](assets/screenshots/batterycompartment.png)
 
 **How to Contribute**
 --------------------
