@@ -32,39 +32,38 @@ Below is a list of components currently available in this repository:
 
 * **Base closure**
 	+ Bottom cover the holds the Power Circuity
-   
-    ![Base closure](assets/screenshots/bottomenclosure.png)
+    + <img src="assets/screenshots/bottomenclosure.png" alt="Base closure" style="width:250px;"/>
 * **Base Centre Case**
 	+ Base centre case that holds the base servo and battery compartment
-    ![Base Centre Case](assets/screenshots/basecentrecase.png)
+    + <img src="assets/screenshots/basecentrecase.png" alt="Base Centre Case" style="width:250px;"/>
 * **Base Top Case**
 	+ Base top case the holds the servo bearing
-    ![Base Top Case](assets/screenshots/basetopcase.png)
+    + <img src="assets/screenshots/basetopcase.png" alt="Base Top Case" style="width:250px;"/>
 * **Servo bearing cap**
 	+ Bearing cap for Lean and Lift servos
-    ![Servo bearing cap](assets/screenshots/servobearingcap.png)
+    + <img src="assets/screenshots/servobearingcap.png" alt="Servo bearing cap" style="width:250px;"/>
 * **Servo enclosure**
 	+ Servo and driver enclosure for for Lean and Lift servos
-    ![Servo enclosure](assets/screenshots/servocase.png)
+    + <img src="assets/screenshots/servocase.png" alt="Servo enclosure" style="width:250px;"/>
 * **Servo enclosure cap**
 	+ Back cap for Lean and Lift servo enclosures
-    ![Servo enclosure cap](assets/screenshots/servocap.png)
+    + <img src="assets/screenshots/servocap.png" alt="Servo enclosure cap" style="width:250px;"/>
 * **Top case**
 	+ Top case that holds the top servo, single board compute,
     speaker etc.,
-    ![Top case](assets/screenshots/topcase.png)
+    + <img src="assets/screenshots/topcase.png" alt="Top case" style="width:250px;"/>
 * **Face Frame**
 	+ Holds the display and closes the top enclosure
-    ![Face Frame](assets/screenshots/displayframe.png)
+    + <img src="assets/screenshots/displayframe.png" alt="Face Frame" style="width:250px;"/>
 * **Servo PCB Holder**
 	+ Holder for attaching servo drivers for Lean and Lift servos
-    ![Servo PCB Holder](assets/screenshots/pcbholder.png)
+    + <img src="assets/screenshots/pcbholder.png" alt="Servo PCB Holder" style="height:250px;"/>
 * **Base Servo PCB Holder**
 	+ Holder for attaching servo drivers for base servo
-    ![Base Servo PCB Holder](assets/screenshots/basepcbboard.png)
+    + <img src="assets/screenshots/basepcbboard.png" alt="Base Servo PCB Holder" style="height:250px;"/>
 * **Battery Compartment**
 	+ Holder for 3S 18650 batteryies with hoolders
-    ![Battery Compartment](assets/screenshots/batterycompartment.png)
+    + <img src="assets/screenshots/batterycompartment.png" alt="Battery Compartment" style="width:250px;"/>
 
 **How to Contribute**
 --------------------
