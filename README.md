@@ -47,7 +47,7 @@ Below is a list of components currently available in this repository:
     + <img src="assets/screenshots/servocase.png" alt="Servo enclosure" style="width:250px;"/>
 * **Servo enclosure cap**
 	+ Back cap for Lean and Lift servo enclosures
-    + <img src="assets/screenshots/servocap.png" alt="Servo enclosure cap" style="width:250px;"/>
+    + <img src="assets/screenshots/servocap.png" alt="Servo enclosure cap" style="height:250px;"/>
 * **Top case**
 	+ Top case that holds the top servo, single board compute,
     speaker etc.,
