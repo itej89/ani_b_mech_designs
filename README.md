@@ -32,6 +32,8 @@ Below is a list of components currently available in this repository:
 
 * **Base closure**
 	+ Bottom cover the holds the Power Circuity
+    <br/>
+    ![Base closure](assets/screenshots/bottomenclosure.png)
 * **Base Centre Case**
 	+ Base centre case that holds the base servo and battery compartment
 * **Base Top Case**
