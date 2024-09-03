@@ -1,9 +1,6 @@
 Mechanical designs for Ani-B project
 ============
 
-**Introduction**
----------------
-
 Welcome to the **A.n.i B** Mechanical Design repository. This repository contains designs for various mechanical components, including base enclosures, actuator enclosures, computing module enclosure, PCB holders and battery compartment.
 
 **Table of Contents**
