@@ -1,5 +1,4 @@
 # Mechanical designs for Ani-B project
-=====================================
 
 **Introduction**
 ---------------
